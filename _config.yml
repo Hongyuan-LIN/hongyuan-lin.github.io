@@ -6,7 +6,7 @@ name: &name "Hongyuan Lin"
 description: &description "Ph.D. Candidate at National University of Singapore, specializing in Pricing and Revenue Management, Supply Chain Management, Discrete Choice Models, Data-Driven Decision Making, and Decision Making under Uncertainty."
 url: "https://Hongyuan-LIN.github.io"
 baseurl: ""
-repository: "Hongyuan-LIN/Hongyuan-LIN" # Replace [your-github-username] and [your-repo-name] accordingly
+repository: "Hongyuan-LIN/Hongyuan-LIN"
 teaser:
 breadcrumbs: false
 words_per_minute: 160
@@ -30,11 +30,11 @@ yandex_site_verification:
 #   app_id:
 #   publisher:
 
-# Analytics (Uncomment and fill in if needed)
-# analytics:
-#   provider: "google-universal"
-#   google:
-#     tracking_id:
+Analytics (Uncomment and fill in if needed)
+analytics:
+  provider: "google-universal"
+  google:
+    tracking_id:
 
 # Site Author
 author:
@@ -52,6 +52,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -66,6 +67,22 @@ exclude:
   - LICENSE
   - README
   - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
+  - log
+  - node_modules
+  - package.json
+  - tmp
+  - vendor
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
 
 # Conversion
 markdown: kramdown
@@ -74,20 +91,48 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+
 # Markdown Processing
 kramdown:
   input: GFM
   hard_wrap: false
   auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
 
 # Collections
 collections:
-  pages:
-    output: true
+  teaching:
+    output: false
+    permalink: /:collection/:path/
+  publications:
+    output: false
+    permalink: /:collection/:path/
+  portfolio:
+    output: false
+    permalink: /:collection/:path/
+  talks:
+    output: false
     permalink: /:collection/:path/
 
+
 # Defaults
-defaults:
+# defaults:
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       author_profile: true
+#       read_time: true
+#       comments: true
+#       share: true
+#       related: true
   # _pages
   - scope:
       path: ""
@@ -95,15 +140,54 @@ defaults:
     values:
       layout: single
       author_profile: true
+#   # _teaching
+#   - scope:
+#       path: ""
+#       type: teaching
+#     values:
+#       layout: single
+#       author_profile: true
+#       share: true
+#       comments: true
+#   # _publications
+#   - scope:
+#       path: ""
+#       type: publications
+#     values:
+#       layout: single
+#       author_profile: true
+#       share: true
+#       comments: true
+#   # _portfolio
+#   - scope:
+#       path: ""
+#       type: portfolio
+#     values:
+#       layout: single
+#       author_profile: true
+#       share: true
+#       comment: true
+#   # _talks
+#   - scope:
+#       path: ""
+#       type: talks
+#     values:
+#       layout: talk
+#       author_profile: true
+#       share: true
 
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Singapore
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
 
 # Plugins
 plugins:
@@ -112,16 +196,46 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
 
 # Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
   path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
+
 
 # HTML Compression
+# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
