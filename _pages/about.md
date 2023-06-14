@@ -1,8 +1,11 @@
 ---
-layout: archive
-title: "About"
-permalink: /about/
+permalink: /
+title: "About Me"
+excerpt: "About me"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 Hello, my name is Hongyuan Lin. I am currently a Ph.D. Candidate at the National University of Singapore. My research interests are Pricing and Revenue Management, Supply Chain Management, Discrete Choice Models, Data-Driven Decision Making, and Decision Making under Uncertainty.
