@@ -4,9 +4,9 @@ title: "Hongyuan Lin's Academic Page"
 title_separator: "-"
 name: &name "Hongyuan Lin"
 description: &description "Ph.D. Candidate at National University of Singapore, specializing in Pricing and Revenue Management, Supply Chain Management, Discrete Choice Models, Data-Driven Decision Making, and Decision Making under Uncertainty."
-url: "https://lin_hongyuan95.github.io"
+url: "https://Hongyuan-LIN.github.io"
 baseurl: ""
-repository: "Hongyuan-LIN/lin_hongyuan95" # Replace [your-github-username] and [your-repo-name] accordingly
+repository: "Hongyuan-LIN/Hongyuan-LIN" # Replace [your-github-username] and [your-repo-name] accordingly
 teaser:
 breadcrumbs: false
 words_per_minute: 160
