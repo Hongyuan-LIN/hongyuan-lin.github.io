@@ -1,24 +1,20 @@
-<!-- ---
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+---
+layout: archive
+title: "About"
+permalink: /about/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
---- -->
+---
 
-Hello! I'm Hongyuan Lin, a Ph.D. Candidate at the National University of Singapore, specializing in Industrial Systems Engineering and Management. My research interests include Pricing and Revenue Management, Supply Chain Management, Discrete Choice Models, Data-Driven Decision Making, and Decision Making under Uncertainty. I hold a B.S. in Mathematics from the University of Texas at Austin and initially studied Mathematics and Applied Mathematics at Chongqing University in China. I am deeply passionate about utilizing mathematical models and data-driven approaches to solve complex problems in supply chain and revenue management.
+Hello, my name is Hongyuan Lin. I am currently a Ph.D. Candidate at the National University of Singapore. My research interests are Pricing and Revenue Management, Supply Chain Management, Discrete Choice Models, Data-Driven Decision Making, and Decision Making under Uncertainty.
 
-Feel free to explore my academic page for more information on my research and experiences. 
-<!-- You can also find my detailed CV [here](/cv). -->
+Before joining the National University of Singapore, I completed my B.S. in Mathematics at the University of Texas at Austin and studied Mathematics and Applied Mathematics at Chongqing University in China.
 
-Contact Information:
+I am deeply passionate about my research and always looking for opportunities to collaborate and further my knowledge in the field.
 
-- Email: lin_hongyuan@u.nus.edu
-- Location: E1-07-19, 3 Engineering Drive 2, Singapore 117578
+Please feel free to reach out to me at lin_hongyuan@u.nus.edu.
 
-![Hongyuan Lin](/assets/images/lhy.jpg)  <!-- Replace /assets/images/profile.png with the path to your profile picture -->
+Thank you for visiting my page!
+
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
