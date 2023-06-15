@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics with Honors, University of Texas at Austin, 2018
 * Ph.D in Industrial Systems Engineering and Management, National University of Singapore, 2023 (expected)
   * Supervisor: Xiaobo Li
+* B.S. in Mathematics with Honors, University of Texas at Austin, 2018
 
 Research Interests
 ======
