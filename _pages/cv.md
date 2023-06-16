@@ -16,11 +16,11 @@ Education
 * B.S. in Mathematics with Honors, University of Texas at Austin (2017 - 2018)
 * Major in Mathematics and Applied Mathematics, Chongqing University (2014 - 2016)
 
-Research Interests
+<!-- Research Interests
 ======
 Pricing and Revenue Management, Supply Chain Management, Discrete Choice Models, Data-Driven Decision Making, Decision Making under Uncertainty
 
-<!-- Working Papers
+Working Papers
 ======
 * Shall We Only Store Popular Products? Warehouse Assortment Selection for E-Companies (with Xiaobo Li and Fang Liu)
   * Accepted for Presentation at the 2023 MSOM Supply Chain Management SIG Meeting
