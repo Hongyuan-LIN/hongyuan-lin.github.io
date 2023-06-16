@@ -20,7 +20,7 @@ Research Interests
 ======
 Pricing and Revenue Management, Supply Chain Management, Discrete Choice Models, Data-Driven Decision Making, Decision Making under Uncertainty
 
-Working Papers
+<!-- Working Papers
 ======
 * Shall We Only Store Popular Products? Warehouse Assortment Selection for E-Companies (with Xiaobo Li and Fang Liu)
   * Accepted for Presentation at the 2023 MSOM Supply Chain Management SIG Meeting
@@ -34,7 +34,7 @@ Working Papers
 
 * Multi-Warehouse Assortment Selection: Minimizing Order Splitting in E-commerce Logistics (with Xiaobo Li and Fang Liu)
 
-* Robust Multi-Product Replenishment Policy (with Xiaobo Li and Yinuo Lin)
+* Robust Multi-Product Replenishment Policy (with Xiaobo Li and Yinuo Lin) -->
 
 Work Experience
 ======
@@ -62,7 +62,7 @@ Teaching Experience
   * Provided personalized instruction to undergraduate students across various math courses, including Real Analysis, Probability Theory, Number Theory, and Discrete Mathematics.
   * Conducted both one-on-one and drop-in tutoring sessions, with a focused aim of improving students' understanding of mathematical concepts and enhancing their problem-solving abilities.
 
-Presentations
+<!-- Presentations
 ======
 * Multi-Choice Preferences Learning and Assortment Recommendation in E-Commerce
   * Department of ISEM of National University of Singapore, Virtual (Spet. 2022)
@@ -73,7 +73,7 @@ Presentations
   * 2023 POMS-China International Conference, Hangzhou (July 2023)
   * 2023 MSOM Supply Chain Management SIG Meeting, Montreal (June 2023)
   * 13th POMS-HK International Conference, Hong Kong (Jan. 2023)
-  * 2022 ISCOM National Conference, Virtual (Dec. 2022)
+  * 2022 ISCOM National Conference, Virtual (Dec. 2022) -->
 
 Honors and Awards
 ======
