@@ -15,6 +15,7 @@ Presentations
   * 2022 INFORMS Revenue Management and Pricing Section Conference, Virtual (June 2022)
 
 * Shall We Only Store Popular Products? Warehouse Assortment Selection for E-Companies
+  * 2023 INFORMS Annual Meeting, Phoenix (Oct. 2023)
   * 2023 POMS-China International Conference, Hangzhou (July 2023)
   * 2023 MSOM Supply Chain Management SIG Meeting, Montreal (June 2023)
   * 13th POMS-HK International Conference, Hong Kong (Jan. 2023)
