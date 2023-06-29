@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Hongyuan Lin. I am currently a Ph.D. Candidate at the National University of Singapore. My research mainly focuses on data driven supply chain and revenue management, in particular for e-commerce and logisitc companies.
+Hello, my name is Hongyuan Lin. I am currently a Ph.D. Candidate at the National University of Singapore. My research mainly focuses on data-driven supply chain and revenue management, in particular for e-commerce and logisitc companies.
 
 Before joining the National University of Singapore, I completed my B.S. in Mathematics at the University of Texas at Austin.
 
