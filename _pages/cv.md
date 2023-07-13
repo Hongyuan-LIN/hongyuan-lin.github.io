@@ -24,7 +24,7 @@ Working Papers
 ======
 * Shall We Only Store Popular Products? Warehouse Assortment Selection for E-Companies (with Xiaobo Li and Fang Liu)
   * Accepted for Presentation at the 2023 MSOM Supply Chain Management SIG Meeting
-  * Winner of 2022 MSOM Data-Driven Research Competition
+  * Winner of 2022 MSOM Data Driven Research Challenge
   * Minor Revision at Manufacturing & Service Operations Management
   * Available at [SSRN 4212027](https://ssrn.com/abstract=4212027)
 
@@ -77,7 +77,7 @@ Teaching Experience
 
 Honors and Awards
 ======
-* Winner for 2022 [MSOM Data-Driven Research Competition](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Manufacturing-and-Service-Operations-Management/MSOM-Data-Driven-Challenge) (Oct. 2022)
+* Winner for 2022 [MSOM Data Driven Research Challenge](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Manufacturing-and-Service-Operations-Management/MSOM-Data-Driven-Challenge) (Oct. 2022)
 * NUS Research Scholarship (2019 - 2022)
 * Distinguished College Scholar of University of Texas at Austin (Apr. 2018)
 * National Scholarship from Ministry of Education of P.R.C. (Nov. 2016)
