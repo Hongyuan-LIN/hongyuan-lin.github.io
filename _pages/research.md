@@ -15,7 +15,7 @@ Working Papers
 ======
 * Shall We Only Store Popular Products? Warehouse Assortment Selection for E-Companies (with Xiaobo Li and Fang Liu)
   * Accepted for Presentation at the 2023 MSOM Supply Chain Management SIG Meeting
-  * Winner of 2022 MSOM Data-Driven Research Competition
+  * Winner of 2022 MSOM Data Driven Research Challenge
   * Minor Revision at Manufacturing & Service Operations Management
   * Available at [SSRN 4212027](https://ssrn.com/abstract=4212027)
 
