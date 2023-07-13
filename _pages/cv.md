@@ -77,7 +77,7 @@ Teaching Experience
 
 Honors and Awards
 ======
-* Winner for 2022 MSOM Data-Driven Research Competition (Oct. 2022)
+* Winner for 2022 [MSOM Data-Driven Research Competition](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Manufacturing-and-Service-Operations-Management/MSOM-Data-Driven-Challenge) (Oct. 2022)
 * NUS Research Scholarship (2019 - 2022)
 * Distinguished College Scholar of University of Texas at Austin (Apr. 2018)
 * National Scholarship from Ministry of Education of P.R.C. (Nov. 2016)
