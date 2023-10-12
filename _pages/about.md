@@ -14,13 +14,7 @@ Before joining the National University of Singapore, I completed my B.S. in Math
 
 I am deeply passionate about my research and always looking for opportunities to collaborate and further my knowledge in the field.
 
-Now, I am particularly excited to share that I am actively seeking faculty positions. To that end, I will be attending several conferences:
-  * 2023 MSOM Conference in Montreal,
-  * 2023 POMS-China International Conference in Hangzhou,
-  * 15th International Annual Conference of the CSAMSE in Shenzhen,
-  * 2023 INFORMS Annual Meeting in Arizona.
-
-These events present excellent opportunities for networking, and I am eagerly looking forward to connecting with fellow academics and professionals.
+Now, I am particularly excited to share that I am actively seeking faculty positions. To that end, I will be attending 2023 INFORMS Annual Meeting in Arizona. I am eagerly looking forward to connecting with fellow academics and professionals.
 
 Please do not hesitate to reach out to me for any discussions, collaborations, or inquiries at lin_hongyuan@u.nus.edu.
 
