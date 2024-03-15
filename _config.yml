@@ -3,7 +3,7 @@ locale: "en-US"
 title: "Hongyuan Lin's Page"
 title_separator: "-"
 name: &name "Hongyuan Lin"
-description: &description "Non-tenured Associate Professor at University of Science and Technology of China"
+description: &description "Non-tenured Associate Professor at the University of Science and Technology of China"
 url: "https://Hongyuan-LIN.github.io"
 baseurl: ""
 repository: "Hongyuan-LIN/Hongyuan-LIN"
@@ -74,7 +74,7 @@ analytics:
 author:
   name: "Hongyuan Lin (林宏远)"
   avatar: "lhy.jpg"
-  bio: "Non-tenured Associate Professor at University of Science and Technology of China"
+  bio: "Non-tenured Associate Professor at the University of Science and Technology of China"
   location: "Anhui, Hefei, China"
   email: "hylin@ustc.edu.cn"
   # Add links to your profiles as needed
