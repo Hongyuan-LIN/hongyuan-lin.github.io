@@ -38,7 +38,10 @@ Working Papers
 
 Work Experience
 ======
-* Jan. 2023 - Present: Research Assistant
+* March 2024 - Present: Non-Tenured Associate Professor
+  * Business School of SciTech, School of Management, University of Science and Technology of China 
+
+* Jan. 2023 - Jan. 2024: Research Assistant
   * National University of Singapore
   * Duties included: Developed models and algorithms for multi-warehouse assortment selection.
   * Supervisor: Xiaobo Li
