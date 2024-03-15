@@ -8,14 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Hongyuan Lin. I am currently a Ph.D. Candidate at the National University of Singapore. My research mainly focuses on data-driven supply chain and revenue management, in particular for e-commerce and logisitc companies.
+Hello, my name is Hongyuan Lin. I am currently a non-tenured associate professor at University of Science and Technology of China. My research mainly focuses on data-driven supply chain and revenue management, in particular for e-commerce and logisitc companies.
 
-Before joining the National University of Singapore, I completed my B.S. in Mathematics at the University of Texas at Austin.
+Before joining USTC. I completed my Ph.D. at the National University of Singapore and my B.S. in Mathematics at the University of Texas at Austin.
 
-I am deeply passionate about my research and always looking for opportunities to collaborate and further my knowledge in the field.
-
-Now, I am particularly excited to share that I am actively seeking faculty positions. To that end, I will be attending 2023 INFORMS Annual Meeting in Arizona. I am eagerly looking forward to connecting with fellow academics and professionals.
-
-Please do not hesitate to reach out to me for any discussions, collaborations, or inquiries at lin_hongyuan@u.nus.edu.
+I am deeply passionate about my research and always looking for opportunities to collaborate and further my knowledge in the field. Please do not hesitate to reach out to me for any discussions, collaborations, or inquiries at hylin@ustc.edu.cn.
 
 Thank you for visiting my page, and I hope to cross paths with you soon!
