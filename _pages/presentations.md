@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Presentations
+Selected Presentations
 ======
 * Multi-Choice Preferences Learning and Assortment Recommendation in E-Commerce
   * Department of ISEM of National University of Singapore, Virtual (Spet. 2022)
@@ -21,3 +21,6 @@ Presentations
   * 2023 MSOM Supply Chain Management SIG Meeting, Montreal (June 2023)
   * 13th POMS-HK International Conference, Hong Kong (Jan. 2023)
   * 2022 ISCOM National Conference, Virtual (Dec. 2022)
+
+* Multi-Warehouse Assortment Selection: Minimizing Order Splitting in E-commerce Logistics
+  * 14th POMS-HK International Conference, Hong Kong (Jan. 2024)
