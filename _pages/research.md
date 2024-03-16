@@ -25,5 +25,5 @@ Working Papers
 
 * Multi-Warehouse Assortment Selection: Minimizing Order Splitting in E-commerce Logistics (with Xiaobo Li and Fang Liu)
 
-* Robust Multi-Product Replenishment Policy (with Xiaobo Li and Yinuo Lin)
+<-- * Robust Multi-Product Replenishment Policy (with Xiaobo Li and Yinuo Lin) -->
 
