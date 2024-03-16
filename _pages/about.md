@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Hongyuan Lin. I am currently a non-tenured associate professor at the University of Science and Technology of China. My research mainly focuses on data-driven supply chain and revenue management, in particular for e-commerce and logisitc companies.
+Hello, my name is Hongyuan Lin. I am currently a non-tenured associate professor at the University of Science and Technology of China. My research mainly focuses on data-driven supply chain and revenue management, in particular for e-commerce and logisitcs business.
 
 Before joining USTC, I completed my Ph.D. at the National University of Singapore and my B.S. in Mathematics at the University of Texas at Austin.
 
