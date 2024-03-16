@@ -15,3 +15,5 @@ Before joining USTC, I completed my Ph.D. at the National University of Singapor
 I am deeply passionate about my research and always looking for opportunities to collaborate and further my knowledge in the field. Please do not hesitate to reach out to me for any discussions, collaborations, or inquiries at hylin@ustc.edu.cn.
 
 Thank you for visiting my page, and I hope to cross paths with you soon!
+
+[Department Homepage](https://bs.ustc.edu.cn/english/profile-2335.html)
