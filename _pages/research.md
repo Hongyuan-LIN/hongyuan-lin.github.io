@@ -13,10 +13,10 @@ Data-Driven Decision Making, Supply Chain Management, Pricing and Revenue Manage
 
 Working Papers
 ======
-* Shall We Only Store Popular Products? Warehouse Assortment Selection for E-Companies (with Xiaobo Li and Fang Liu)
+* Should Only Popular Products Be Stocked? Warehouse Assortment Selection for E-Commerce Companies (with Xiaobo Li and Fang Liu)
+  * Forthcoming in Manufacturing & Service Operations Management 
   * Accepted for Presentation at the 2023 MSOM Supply Chain Management SIG Meeting
   * Winner of 2022 MSOM Data Driven Research Challenge
-  * Minor Revision at Manufacturing & Service Operations Management
   * Available at [SSRN 4212027](https://ssrn.com/abstract=4212027)
 
 * Multi-Choice Preferences Learning and Assortment Recommendation in E-Commerce (with Xiaobo Li and Lixia Wu)
