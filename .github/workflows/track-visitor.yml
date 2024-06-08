@@ -1,0 +1,26 @@
+name: Track Visitor
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  track_visitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Track visitor
+        run: |
+          echo "Visitor IP: $(curl -s http://checkip.amazonaws.com)" >> visitor_log.txt
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your Name"
+          git add visitor_log.txt
+          git commit -m "Update visitor log"
+          git push
