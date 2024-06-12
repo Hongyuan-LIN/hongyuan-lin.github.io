@@ -24,7 +24,7 @@ Working Papers
   * Available at [SSRN 4035033](https://ssrn.com/abstract=4035033)
 
 * Multi-Warehouse Assortment Selection: Minimizing Order Splitting in E-commerce Logistics (with Xiaobo Li and Fang Liu)
-  * Available at [SSRN 4035033](https://ssrn.com/abstract=4857623)
+  * Available at [SSRN 4857623](https://ssrn.com/abstract=4857623)
 
 <!-- * Algorithms for Solving a Class of Piecewise Linear Problems with Application to Robust Multi-Product Inventory Replenishment (with Xiaobo Li and Yinuo Lin) -->
 
