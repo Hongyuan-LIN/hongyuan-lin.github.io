@@ -39,7 +39,7 @@ Working Papers
 Work Experience
 ======
 * March 2024 - Present: Non-Tenured Associate Professor
-  * Faculty of Business in SciTech and School of Management, University of Science and Technology of China 
+  * Faculty of Business for Science and Technology, School of Management, University of Science and Technology of China 
 
 * Jan. 2023 - Jan. 2024: Research Assistant
   * National University of Singapore
