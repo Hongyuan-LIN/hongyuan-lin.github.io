@@ -13,6 +13,7 @@ Education
 ======
 * Ph.D. in Industrial Systems Engineering and Management, National University of Singapore (2019 - 2023)
   * Supervisor: Xiaobo Li
+  * Thesis Title: E-commerce Product Recommendation and Warehouse Assortment Selection: the Impact of Customer Multi-Purchase Behavior
 * B.S. in Mathematics with Honors, University of Texas at Austin (2017 - 2018)
 * Major in Mathematics and Applied Mathematics, Chongqing University (2014 - 2016)
 
