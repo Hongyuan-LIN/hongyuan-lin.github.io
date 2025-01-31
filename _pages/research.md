@@ -9,7 +9,7 @@ author_profile: true
 
 Research Interests
 ======
-Data-Driven Decision Making, Supply Chain Management, Pricing and Revenue Management, Discrete Choice Models, Sustainability in E-Commerce
+Data-Driven Decision Making, Supply Chain Management, Pricing and Revenue Management, Discrete Choice Modeling, Sustainability in E-Commerce
 
 Publication
 ======
