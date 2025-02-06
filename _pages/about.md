@@ -18,4 +18,4 @@ Thank you for visiting my page. I look forward to the opportunity to connect or 
 
 [Department Homepage](https://bs.ustc.edu.cn/english/profile-2335.html)
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Zy3a74fYKBtTQPXMTc6RMmnIh3gfWIE_RtIrrBRV2XQ&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=251&t=n&d=Zy3a74fYKBtTQPXMTc6RMmnIh3gfWIE_RtIrrBRV2XQ&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
