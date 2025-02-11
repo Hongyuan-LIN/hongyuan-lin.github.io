@@ -28,5 +28,8 @@ Working Papers
   * Major Revision at Production and Operations Management
   * Available at [SSRN 4857623](https://ssrn.com/abstract=4857623)
 
+* Robust Pricing with Points: The Role of Randomization (with Mingyang Fu and Chenyu Xue)
+  * Available at [SSRN 5132337](https://ssrn.com/abstract=5132337)
+
 <!-- * Algorithms for Solving a Class of Piecewise Linear Problems with Application to Robust Multi-Product Inventory Replenishment (with Xiaobo Li and Yinuo Lin) -->
 
