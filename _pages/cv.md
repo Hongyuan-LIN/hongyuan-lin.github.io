@@ -54,8 +54,8 @@ Work Experience
 
 Teaching Experience
 ======
-* Lecturer, School of Management, University of Science and Technology of China, China
-  * MSAE6408P Revenue Management and Pricing for master students (Sprcing 2025)
+* Instructor, School of Management, University of Science and Technology of China, China
+  * MSAE6408P Revenue Management and Pricing Analytics for master students (Sprcing 2025)
  
 * Teaching Assistant, Department of Industrial Systems Engineering and Management, National University of Singapore, Singapore
   * IE 4211 Modeling and Analytics for undergraduate students (Spring 2020, Spring 2021, Spring 2022)
