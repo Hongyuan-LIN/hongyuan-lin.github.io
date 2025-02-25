@@ -88,10 +88,10 @@ Honors and Awards
 * NUS Research Scholarship (2019 - 2022)
 * Distinguished College Scholar of University of Texas at Austin (Apr. 2018)
 * National Scholarship from Ministry of Education of P.R.C. (Nov. 2016)
-* Honorable Mention of 2016 Interdisciplinary Contest In Modeling by COMAP (Apr. 2016)
 * National Scholarship from Ministry of Education of P.R.C. (Nov. 2015)
 * First-Class Integrated Scholarship of Outstanding Students of Chongqing University (2014 - 2016)
-  
+
+<!-- * Honorable Mention of 2016 Interdisciplinary Contest In Modeling by COMAP (Apr. 2016)-->
 <!-- Publications
 ======
   <ul>{% for post in site.publications %}
