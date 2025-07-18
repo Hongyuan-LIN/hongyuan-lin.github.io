@@ -12,7 +12,7 @@ Selected Presentations
 * Efficient Heuristics for Warehouse Assortment Selection with Performance Guarantees
   * 2025 INFORMS International Conference, Singapore (July 2025)
 
-* Pricing with Points: Optimal Mechanisms and Pareto Frontiers of Robustness Criteria
+* Robust Pricing with Randomization: A Multi-Criteria Perspective
   * 2025 INFORMS International Conference, Singapore (July 2025)
   * 2025 INFORMS MSOM Conference, London (June 2025)
   * 15th POMS-HK International Conference, Hong Kong (Jan. 2025)
