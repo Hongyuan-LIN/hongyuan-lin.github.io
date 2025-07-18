@@ -11,7 +11,7 @@ Research Interests
 ======
 Data-Driven Decision Making, Supply Chain Management, Pricing and Revenue Management, Discrete Choice Modeling, Sustainability in E-Commerce
 
-Publication
+Publications
 ======
 * Xiaobo Li, Hongyuan Lin\*, Fang Liu (2024). Should Only Popular Products Be Stocked? Warehouse Assortment Selection for E-Commerce Companies. *Manufacturing & Service Operations Management*, 26(4):1372–1386.  
   * Accepted for Presentation at the 2023 MSOM Supply Chain Management SIG Meeting
