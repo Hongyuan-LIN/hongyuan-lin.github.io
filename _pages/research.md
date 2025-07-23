@@ -21,7 +21,7 @@ Publications
 * Hongyuan Lin, Xiaobo Li\*, Lixia Wu (2025). Intra-Category Multi-Choice Preferences Learning and Assortment Recommendation in E-Commerce. Accepted at *Production and Operations Management*
   * Available at [SSRN 4035033](https://ssrn.com/abstract=4035033)
  
-* Xiaobo Li, Hongyuan Lin\*, Fang Liu (2025). Multi-Warehouse Assortment Selection: Minimizing Order Splitting in E-commerce Logistics. Accepted at *Production and Operations Management*
+* Hongyuan Lin, Xiaobo Li, Fang Liu\* (2025). Multi-Warehouse Assortment Selection: Minimizing Order Splitting in E-commerce Logistics. Accepted at *Production and Operations Management*
   * Available at [SSRN 4857623](https://ssrn.com/abstract=4857623)
 
 *Corresponding authors
@@ -32,5 +32,6 @@ Working Papers
   * Under Review
   * Available at [SSRN 5132337](https://ssrn.com/abstract=5132337)
 
-<!-- * Algorithms for Solving a Class of Piecewise Linear Problems with Application to Robust Multi-Product Inventory Replenishment (with Xiaobo Li and Yinuo Lin) -->
+* Efficient Heuristics for Warehouse Assortment Selection with Performance Guarantees (with Xiaobo Li and Fang Liu)
+  * In Preparation
 
