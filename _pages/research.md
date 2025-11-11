@@ -29,7 +29,7 @@ Publications
 Working Papers
 ======
 * Robust Pricing with Randomization: A Multi-Criteria Perspective (with Mingyang Fu and Chenyu Xue)
-  * Under Review
+  * Major Revision at *Operations Research*
   * Available at [SSRN 5132337](https://ssrn.com/abstract=5132337)
 
 * Efficient Heuristics for Warehouse Assortment Selection with Performance Guarantees (with Xiaobo Li and Fang Liu)
