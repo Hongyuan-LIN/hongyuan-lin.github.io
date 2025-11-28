@@ -22,9 +22,7 @@ Publications
   * Available at [SSRN 4035033](https://ssrn.com/abstract=4035033)
  
 * **Hongyuan Lin**, Xiaobo Li, Fang Liu\* (2025). Multi-Warehouse Assortment Selection: Minimizing Order Splitting in E-commerce Logistics. Accepted at *[Production and Operations Management](https://journals.sagepub.com/doi/10.1177/10591478251365581)*
-  <!--
-  * Available at [SSRN 4857623](https://ssrn.com/abstract=4857623)
-  -->
+<!-- * Available at [SSRN 4857623](https://ssrn.com/abstract=4857623) -->
 
 *Corresponding authors
 
