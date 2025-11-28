@@ -9,7 +9,8 @@ author_profile: true
 
 Selected Presentations
 ======
-* Efficient Heuristics for Warehouse Assortment Selection with Performance Guarantees
+* Heuristics for Warehouse Assortment Selection via Birkhoff--von Neumann Decomposition
+  * 16th POMS-HK International Conference, Shenzhen (Jan. 2026)
   * 2025 INFORMS International Conference, Singapore (July 2025)
 
 * Robust Pricing with Randomization: A Multi-Criteria Perspective
