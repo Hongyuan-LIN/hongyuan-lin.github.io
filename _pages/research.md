@@ -32,7 +32,10 @@ Working Papers
   * Major Revision at *Operations Research*
   * Accepted for Presentation at the 2025 MSOM Conference
   * Available at [SSRN 5132337](https://ssrn.com/abstract=5132337)
+ 
+* Warehouse Assortment Selection with Constant-Factor Guarantees via Birkhoff--von Neumann Decomposition (with Xiaobo Li and Fang Liu)
+  * Submitted
+  * Available at [SSRN](https://papers.ssrn.com/abstract_id=5858122)
 
-* Heuristics for Warehouse Assortment Selection via Birkhoff--von Neumann Decomposition (with Xiaobo Li and Fang Liu)
-  * In Preparation
+
 
