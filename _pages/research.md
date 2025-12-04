@@ -35,7 +35,7 @@ Working Papers
  
 * Warehouse Assortment Selection with Constant-Factor Guarantees via Birkhoff--von Neumann Decomposition (with Xiaobo Li and Fang Liu)
   * Submitted
-  * Available at [SSRN](https://papers.ssrn.com/abstract_id=5858122)
+  * Available at [SSRN 5858122](https://papers.ssrn.com/abstract_id=5858122)
 
 
 
