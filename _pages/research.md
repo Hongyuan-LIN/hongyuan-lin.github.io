@@ -15,7 +15,7 @@ Publications
 ======
 * Xiaobo Li, **Hongyuan Lin\***, Fang Liu (2024). Should Only Popular Products Be Stocked? Warehouse Assortment Selection for E-Commerce Companies. *[Manufacturing & Service Operations Management](https://pubsonline.informs.org/doi/10.1287/msom.2022.0428)*, 26(4):1372–1386.  
   * Accepted for Presentation at the 2023 MSOM Supply Chain Management SIG Meeting
-  * Winner of 2022 MSOM Data Driven Research Challenge
+  * Winner, 2022 MSOM Data Driven Research Challenge
 <!-- * Available at [SSRN 4212027](https://ssrn.com/abstract=4212027) -->
 
 * **Hongyuan Lin**, Xiaobo Li\*, Lixia Wu (2026). Intra-Category Multi-Choice Preferences Learning and Assortment Recommendation in E-Commerce. *[Production and Operations Management](https://journals.sagepub.com/doi/abs/10.1177/10591478251350853)*, 35(1):304–330.
@@ -30,11 +30,13 @@ Working Papers
 ======
 * Robust Pricing with Randomization: A Multi-Criteria Perspective (with Mingyang Fu and Chenyu Xue)
   * Major Revision at *Operations Research*
+  * Third Prize, 2026 CSAMSE Annual Conference Best Paper Award
   * Accepted for Presentation at the 2025 MSOM Conference
   * Available at [SSRN 5132337](https://ssrn.com/abstract=5132337)
  
 * Warehouse Assortment Selection with Constant-Factor Guarantees via Birkhoff--von Neumann Decomposition (with Xiaobo Li and Fang Liu)
   * Submitted
+  * Accepted for Presentation at the 2026 MSOM Conference
   * Available at [SSRN 5858122](https://papers.ssrn.com/abstract_id=5858122)
 
 
